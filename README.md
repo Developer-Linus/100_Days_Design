@@ -7,3 +7,5 @@ I challenged myself by doing research and coming up with a design that is simple
 On this day, the challenge was designing a checkout page. I took a challenge to design a payment page for a mobile. I researched on the best colors that depict security and trust for the page.
 Check on `day2.pdf` for the design. The prompt that guided me is `Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.`
 
+## Day 3 - Landing page
+The prompt `What's the main focus? Is it for a book, an album, a mobile app, a SaaS product? Consider important landing page elements (Headlines, call-to-action buttons, typography, clarity, etc.)`. I researched on the best elements that are essential for landing page. Check `day3.pdf` for the design.
