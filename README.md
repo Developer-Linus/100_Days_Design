@@ -9,3 +9,5 @@ Check on `day2.pdf` for the design. The prompt that guided me is `Design a credi
 
 ## Day 3 - Landing page
 The prompt `What's the main focus? Is it for a book, an album, a mobile app, a SaaS product? Consider important landing page elements (Headlines, call-to-action buttons, typography, clarity, etc.)`. I researched on the best elements that are essential for landing page. Check `day3.pdf` for the design.
+ ## Day 4 - Calculation
+ The prompt `Design a calculation element or interface. Is it a standard calculator, a scientific one, or specialty calculator for something such as a home mortgage or auto loan? Is it to forecast a calculation such as for a credit score? Is it for a phone, a tablet, a web app?`
