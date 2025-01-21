@@ -11,3 +11,13 @@ Check on `day2.pdf` for the design. The prompt that guided me is `Design a credi
 The prompt `What's the main focus? Is it for a book, an album, a mobile app, a SaaS product? Consider important landing page elements (Headlines, call-to-action buttons, typography, clarity, etc.)`. I researched on the best elements that are essential for landing page. Check `day3.pdf` for the design.
  ## Day 4 - Calculation
  The prompt `Design a calculation element or interface. Is it a standard calculator, a scientific one, or specialty calculator for something such as a home mortgage or auto loan? Is it to forecast a calculation such as for a credit score? Is it for a phone, a tablet, a web app?`
+ ## Day 5 - App Icon
+ The prompt `Design an app icon. What best represents the brand or product? Or is it incredibly unique? Does it look great at a distance and does it stand out when put on your home screen alongside other apps?`
+ Digital products are used to accomplish daily tasks. Most of our activities are completed with the touch of an app icon that opens our favourite app. As a brand aiming to build a digital footprint in the user's mind, an app icon making users locate your app in a crowded app grid on a smartphone screen is essential. Today, I designed an app icon for the Ecosolar company installing solar panels. First, the app contains sun radiating energy. The way the sun is radiating is designed with the technical perspective of installing solar panels. Secondly, the leaf on the bottom right symbolizes the eco-friendliness of solar panels in protecting the environment. Lastly, the dark background symbolizes the darkness that solar panels installation and usage addresses. What are your thoughts on this design?
+Digital products have become integral to our daily lives. Most of our activities now begin with the simple tap of an app icon, launching our favorite tools.
+As a brand striving to create a strong digital footprint, an eye-catching app icon is essential for helping users locate your app in a crowded smartphone grid.
+Today, I designed an app icon for Ecosolar, a company that specializes in installing solar panels. Here’s the thought process behind the design:
+The sun's rays symbolize the energy solar panels capture, with the radiating pattern inspired by the technical layout of solar panels.
+The leaf in the bottom right represents the eco-friendliness of solar panels and their role in protecting the environment.
+The dark background signifies the light solar panels bring to areas previously in darkness.
+## Day 6 - User Profile
