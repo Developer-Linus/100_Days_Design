@@ -21,3 +21,14 @@ The sun's rays symbolize the energy solar panels capture, with the radiating pat
 The leaf in the bottom right represents the eco-friendliness of solar panels and their role in protecting the environment.
 The dark background signifies the light solar panels bring to areas previously in darkness.
 ## Day 6 - User Profile
+## Day 7 - Settings Page
+The prompt `Design settings for something. Is it for security or privacy settings? Game settings? Light mode vs. dark mode? System settings (sound, notifications, screen time, Wi-Fi, etc.? 
+ 
+What is it and what are the most important settings? `
+## Day 8 - 404 Page
+##### 404 Page Requirements
+- Address what has happened in a single sentence.
+- Give them new destination(s).
+- Keep it simple.
+##### royalty illustrations for illustrations.
+- Explain what happened instead of using big 404.
