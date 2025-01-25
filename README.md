@@ -35,3 +35,5 @@ Does it suit the brand's style? Is it user-friendly? It might sound mundane, but
 - Keep it simple.
 ##### royalty illustrations for illustrations.
 - Explain what happened instead of using big 404.
+## Day 9 - Music Player Design
+
