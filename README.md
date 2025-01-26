@@ -37,3 +37,6 @@ Does it suit the brand's style? Is it user-friendly? It might sound mundane, but
 - Explain what happened instead of using big 404.
 ## Day 9 - Music Player Design
 
+## Day 10 - Social Sharing Icon
+
+
